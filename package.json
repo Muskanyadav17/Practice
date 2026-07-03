@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muskanyadav17/Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Muskanyadav17/Practice/issues"
+  },
+  "homepage": "https://github.com/Muskanyadav17/Practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1"
+  }
+}
