@@ -39,3 +39,6 @@ Additional pages and components:
 - `src/components/header.component.js` — `HeaderComponent` with `clickSearch()` helper.
 
 Use these page objects in tests by requiring them from `src/pages` or `src/components`.
+
+
+Made by Muskan Yadav
